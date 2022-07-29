@@ -59,6 +59,10 @@ https://www.npmjs.com/search?q=parcel-plugin-handlebars
 The most recent one is:
 https://www.npmjs.com/package/@inventory/parcel-plugin-handlebars
 
+## Parcel2: @partiellkorrekt/parcel-transformer-handlebars
+
+The plugin [@partiellkorrekt/parcel-transformer-handlebars](https://www.npmjs.com/package/@partiellkorrekt/parcel-transformer-handlebars) allows you to use handlebars with Parcel2. It should be a drop-in-replacement for parcel-plugin-handlebars which only works with Parcel Version 1.
+
 ## Parcel: parcel-plugin-handlebars-precompile
 
 TODO: Write text here
